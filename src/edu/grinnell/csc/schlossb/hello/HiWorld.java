@@ -6,5 +6,6 @@ public class HiWorld
   main (String[] args) 
 {
   System.out.println ("Hello, HubCap!");
+  System.out.println ("Cya, Hubbs");
 } // main(String[])
 }
